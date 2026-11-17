@@ -26,7 +26,7 @@ Comece pelo [catálogo dos 50 casos](docs/catalogo.md) e abra os relatórios aba
 | Edição de dados pessoais | 5 | [Consultar](relatorios/06.md) |
 | Eliminação de funcionários | 5 | [Consultar](relatorios/07.md) |
 
-Os relatórios estão disponíveis em versão textual. As 64 capturas dos documentos originais ainda não integram esta versão pública.
+As [evidências protegidas](evidencias-protegidas/README.md) incluem o pacote ZIP com as 64 capturas, o manifesto e a documentação correspondente. [Baixar o ZIP](evidencias-protegidas/GestPessoas_Evidencias_Protegidas.zip).
 
 ## Funcionalidades testadas
 
