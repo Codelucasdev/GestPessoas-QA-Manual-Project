@@ -12,6 +12,22 @@ GestPessoas é o nome utilizado no exercício de formação. A aplicação testa
 
 Os sete relatórios originais descrevem 50 casos de teste, registrados em 31/10 e 01/11/2026. Incluem pré-requisitos, passos, resultados esperados e resultados observados.
 
+## Consulte o trabalho
+
+Comece pelo [catálogo dos 50 casos](docs/catalogo.md) e abra os relatórios abaixo para acompanhar os passos, resultados esperados e observados.
+
+| Módulo | Casos | Relatório |
+|---|---:|---|
+| Login | 9 | [Consultar](relatorios/01.md) |
+| Recuperação de palavra-passe | 4 | [Consultar](relatorios/02.md) |
+| Encerramento de sessão | 2 | [Consultar](relatorios/03.md) |
+| Lista e pesquisa | 7 | [Consultar](relatorios/04.md) |
+| Cadastro de funcionários | 18 | [Consultar](relatorios/05.md) |
+| Edição de dados pessoais | 5 | [Consultar](relatorios/06.md) |
+| Eliminação de funcionários | 5 | [Consultar](relatorios/07.md) |
+
+Os relatórios estão disponíveis em versão textual. As 64 capturas dos documentos originais ainda não integram esta versão pública.
+
 ## Funcionalidades testadas
 
 - **Login:** credenciais válidas e inválidas, campos obrigatórios e acesso sem sessão.
@@ -36,7 +52,7 @@ Este é um exercício de formação em QA, com orientação. A aplicação testa
 
 Os registros descritos neste projeto são verificações pela interface. Não demonstram execução automatizada, validação por API ou consultas ao banco.
 
-A organização dos relatórios e capturas originais será acrescentada após conferência e associação de cada evidência ao caso correspondente.
+As [notas de revisão](docs/revisao.md) identificam ambiguidades e pontos a confirmar antes de uma nova execução. Os textos históricos foram preservados; divergências documentais não são tratadas automaticamente como defeitos confirmados.
 
 ## Sobre mim
 
