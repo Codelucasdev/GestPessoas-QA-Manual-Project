@@ -2,7 +2,7 @@
 
 **Antonio Lucas Ribeiro · QA Manual Tester · Braga, Portugal**
 
-Portfólio de testes funcionais manuais de autenticação e gestão de funcionários, desenvolvido em formação, com orientação.
+Portfólio de testes funcionais manuais de autenticação e gestão de funcionários, desenvolvido em formação.
 
 [LinkedIn](https://www.linkedin.com/in/antonio-lucas-03441b311/) · [GitHub](https://github.com/Codelucasdev)
 
