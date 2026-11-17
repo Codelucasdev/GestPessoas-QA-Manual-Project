@@ -1,0 +1,1218 @@
+[
+  {
+    "path": "01/captura-01.png",
+    "size": [
+      1296,
+      545
+    ],
+    "masked_rows": [
+      [
+        0,
+        23
+      ],
+      [
+        522,
+        544
+      ]
+    ],
+    "sha256": "fa913007003a51f8c3552848afc35263e022c3e478e053bf1946b1cf843a1ad8",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "01/captura-02.png",
+    "size": [
+      1300,
+      543
+    ],
+    "masked_rows": [
+      [
+        0,
+        23
+      ],
+      [
+        520,
+        542
+      ]
+    ],
+    "sha256": "526db89d04f0f70b9ccee1306b4785fc71bade9f54d07ea3710f6745c879288e",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "01/captura-03.png",
+    "size": [
+      1300,
+      543
+    ],
+    "masked_rows": [
+      [
+        0,
+        23
+      ],
+      [
+        520,
+        542
+      ]
+    ],
+    "sha256": "2f91dff8ff9baa552874e55228a1cc69d7c95649b6ca1f622c2fa32c86b10abe",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "01/captura-04.png",
+    "size": [
+      1300,
+      543
+    ],
+    "masked_rows": [
+      [
+        0,
+        23
+      ],
+      [
+        520,
+        542
+      ]
+    ],
+    "sha256": "5efa3f6f2a3d8aef8c6b43d9365562a119c5b14c11eecb378b220358074331fd",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "01/captura-05.png",
+    "size": [
+      1298,
+      544
+    ],
+    "masked_rows": [
+      [
+        0,
+        23
+      ],
+      [
+        521,
+        543
+      ]
+    ],
+    "sha256": "97eed22e623ac368931f0009e07f69a2c4c26816aa9a7257e614d40c56ad6122",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "01/captura-06.png",
+    "size": [
+      3439,
+      1439
+    ],
+    "masked_rows": [
+      [
+        0,
+        61
+      ],
+      [
+        1378,
+        1438
+      ]
+    ],
+    "sha256": "1455f7efd3284c753c509da363469185fa9f5a366d396124fbbbc05d5e26c6e4",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "01/captura-07.png",
+    "size": [
+      1300,
+      542
+    ],
+    "masked_rows": [
+      [
+        0,
+        23
+      ],
+      [
+        519,
+        541
+      ]
+    ],
+    "sha256": "67f40a86c71c2cf7deab43811086666435b501be3bb1cbe99d81a81df018ad38",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "01/captura-08.png",
+    "size": [
+      1300,
+      543
+    ],
+    "masked_rows": [
+      [
+        0,
+        23
+      ],
+      [
+        520,
+        542
+      ]
+    ],
+    "sha256": "296fa50f3008ef35c4e6b8a5a1c8284a97beddc44f79b4845ef2487ca73fcf38",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "01/captura-09.png",
+    "size": [
+      1300,
+      543
+    ],
+    "masked_rows": [
+      [
+        0,
+        23
+      ],
+      [
+        520,
+        542
+      ]
+    ],
+    "sha256": "bce9d357277703827d422979f136569c206e7f1474aa2dbfdba7d52dc0872459",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "02/captura-01.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "556b138ad00c15a9c54766308d9d823872d096db9d48cfa9864a05fc60d5b041",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "02/captura-02.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "6bfe69e7efaed0c7162e9a87d4db631561dc5966c4271b7fe3668efebcabead5",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "02/captura-03.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "6dbc254de07501b6ccf29792a1264260b9d631cd3ea9bc558d7254b58c0f2775",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "02/captura-04.png",
+    "size": [
+      3439,
+      1439
+    ],
+    "masked_rows": [
+      [
+        0,
+        61
+      ],
+      [
+        1378,
+        1438
+      ]
+    ],
+    "sha256": "dcec91ec9bedaba243b217f18ad8f59a0cc6c9e9a114c9481afeff5518dee5ca",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "02/captura-05.png",
+    "size": [
+      1300,
+      543
+    ],
+    "masked_rows": [
+      [
+        0,
+        23
+      ],
+      [
+        520,
+        542
+      ]
+    ],
+    "sha256": "a15ee43a3b39734d0f133dbae77df3cd221e1d5d36b0a456253e89d151620ca8",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "02/captura-06.png",
+    "size": [
+      1300,
+      543
+    ],
+    "masked_rows": [
+      [
+        0,
+        23
+      ],
+      [
+        520,
+        542
+      ]
+    ],
+    "sha256": "0eae17837f8553b336bf4a0f3fdb0dc5b71bdd63f1eecba74cf4b067ac7e07cc",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "02/captura-07.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "48baa444510b994bf6379e679c5d335404d90f557935bb40d6bf1a8d39fdabf3",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "02/captura-08.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "6b91068d68c1c0571b035555934ae2f3100102cd354f1d9827320c8e80833fe3",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "03/captura-01.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "2061d8f1080e815481c729157451384fe17632cdf06da450ba31248925e133f8",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "03/captura-02.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "3acfc9fb494d439379eca9c300c565048d6c31c95b1135a06f1e3e1bca653bef",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "04/captura-01.png",
+    "size": [
+      1800,
+      755
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        723,
+        754
+      ]
+    ],
+    "sha256": "d90f186695da0c57441d96b8e95d65504ba920a9123ecab85ab826d422bb0ae5",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "04/captura-02.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "76e50773bffdb5e525db872f4e113611cdf192764dc5e96208bb49cd72ca5007",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "04/captura-03.png",
+    "size": [
+      3439,
+      1433
+    ],
+    "masked_rows": [
+      [
+        0,
+        61
+      ],
+      [
+        1372,
+        1432
+      ]
+    ],
+    "sha256": "98f679151be3cccef1bf20288313268137c4ec7a91680f3f1575fc66f62c97f6",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "04/captura-04.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "6882101404e2580fb224b06c471889869a3ffda9786f18bff8fd6dc99d48fbe9",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "04/captura-05.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "8b19aa51d68a12270beaad5b969982b37247c9f9d1ae0e0e0d8894cefea4ad3b",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "04/captura-06.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "e78d6187a4d148d46dab4207be85d1932e6dab1f09b3b6751462d74b9e14ef76",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "04/captura-07.png",
+    "size": [
+      3454,
+      1437
+    ],
+    "masked_rows": [
+      [
+        0,
+        61
+      ],
+      [
+        1376,
+        1436
+      ]
+    ],
+    "sha256": "d29372455c0b13c902a2ed12965fcef6bab6f23b4d5840d1e2e39737637a1408",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "04/captura-08.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "34e7d020feffd68c7cc9f001f15cd370028ff9ccf9edfde99d57c977273219fa",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "05/captura-01.png",
+    "size": [
+      1800,
+      743
+    ],
+    "masked_rows": [
+      [
+        0,
+        31
+      ],
+      [
+        711,
+        742
+      ]
+    ],
+    "sha256": "986ad7fb1c60d52fc8483da4486620ad098b04d3af3cd6fb5dc991372da2995c",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "05/captura-02.png",
+    "size": [
+      1800,
+      738
+    ],
+    "masked_rows": [
+      [
+        0,
+        31
+      ],
+      [
+        707,
+        737
+      ]
+    ],
+    "sha256": "2338a1f4a42c0a5a5bb97f5794685fdbfb3ad45013e33c656de6b6de17fd4ad4",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "05/captura-03.png",
+    "size": [
+      1800,
+      753
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        721,
+        752
+      ]
+    ],
+    "sha256": "15aeefe0a35875a1754fda62a2ae00168abda7fd51e5df11b9fdd469bbcb6b65",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "05/captura-04.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "9b0e1b4f1a7ce110a4dccf56258ba8ed2e7680fd8c71d55cb142cbd299ad3908",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "05/captura-05.png",
+    "size": [
+      1800,
+      750
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        718,
+        749
+      ]
+    ],
+    "sha256": "c7d1a27b3b6dfbd984998c38987265cccc786190c271485cfa5fb439dc639ed8",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "05/captura-06.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "604187618a8c96cd525607788a73b1a4158a5f44581700c35ebcb193a2dd882a",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "05/captura-07.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "08be9adb020bf17ad2ae3e610e7be33adf90e970cb90e15383c859db47b06b13",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "05/captura-08.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "3a40d454b403a8bb5b975e86c0552fa51b47f628a52fe59fc780d25849d6f5fd",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "05/captura-09.png",
+    "size": [
+      1800,
+      753
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        721,
+        752
+      ]
+    ],
+    "sha256": "ab36ebaa4cf4ee21ba5dfdaeea0c82a121a64e934f1119d848612a1a1cbe15b4",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "05/captura-10.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "68ba24d20aeefe0a2ba4f5dd2e3c096f79340579efbffc6c3c69d3170023cc6d",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "05/captura-11.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "6f098e4bfd7736194b98acbaad258a48fc35914f5d2d676a61d2096d20199fb9",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "05/captura-12.png",
+    "size": [
+      1800,
+      753
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        721,
+        752
+      ]
+    ],
+    "sha256": "990382392a290970f0552949bd46cf89936b35b6c5308bfb349e6ca38d15d7e7",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "05/captura-13.png",
+    "size": [
+      1800,
+      753
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        721,
+        752
+      ]
+    ],
+    "sha256": "305e92858807a6c2ee2be88e921f436da51ff22503e7e9dd72032a708847bfd4",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "05/captura-14.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "4612c778e5f7a8f142322942a8b05fe41e367f98a1cd14d35390426ef2b1cac6",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "05/captura-15.png",
+    "size": [
+      1800,
+      753
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        721,
+        752
+      ]
+    ],
+    "sha256": "06f17b1129bce7b5caaf1ddc57a2b5c49dfc4ca1889b4c143f80ea2ee3d74858",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "05/captura-16.png",
+    "size": [
+      3438,
+      1438
+    ],
+    "masked_rows": [
+      [
+        0,
+        61
+      ],
+      [
+        1377,
+        1437
+      ]
+    ],
+    "sha256": "6c3273dbef70f9be8b11095026c5221a620134efb98214311e1ed96a88e714b3",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "05/captura-17.png",
+    "size": [
+      1800,
+      751
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        719,
+        750
+      ]
+    ],
+    "sha256": "f2fa925ec4dc8b76c331162953750f1645d0ba63a7ba3cf4973c22c379f43ba5",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "05/captura-18.png",
+    "size": [
+      1800,
+      753
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        721,
+        752
+      ]
+    ],
+    "sha256": "eb4c4f499285924354ec3efd1ec07dfaf047edf5cd8ff20921a54cdb7a74a037",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "05/captura-19.png",
+    "size": [
+      1297,
+      543
+    ],
+    "masked_rows": [
+      [
+        0,
+        23
+      ],
+      [
+        520,
+        542
+      ]
+    ],
+    "sha256": "8101572a5176d078fa03e6020e89aea2b082a99cca55b6dcbfa92e6b37f2e1b6",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "05/captura-20.png",
+    "size": [
+      1297,
+      542
+    ],
+    "masked_rows": [
+      [
+        0,
+        23
+      ],
+      [
+        519,
+        541
+      ]
+    ],
+    "sha256": "5d37f058cc74ab76e4d983155655c7916987dde863f2876054687e162b178682",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "06/captura-01.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "d97cdb9d489ea3083557db72997f811cabddb6cf3ad474c422aa6293422391ae",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "06/captura-02.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "5f7297463806cf6fba47cb259c753d280367b88131f09bab4260af493bf1b89a",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "06/captura-03.png",
+    "size": [
+      1800,
+      753
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        721,
+        752
+      ]
+    ],
+    "sha256": "b17190160625cad50d2bcfd8fbfcb81c9de66defbbed94669a6d83df64b14a86",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "06/captura-04.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "98d372bcd2b00456138fe343d0d02b40f74bb5f2182034421271829c0a049a66",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "06/captura-05.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "9ebf4a062359c23b93b576d77b7b32e59b10110aede122c0d89f97c6833bc047",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "06/captura-06.png",
+    "size": [
+      1800,
+      747
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        715,
+        746
+      ]
+    ],
+    "sha256": "72102208c223a40d362d71c0953241ea89a31cb3524461dd60531fd23066cf27",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "06/captura-07.png",
+    "size": [
+      1800,
+      751
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        719,
+        750
+      ]
+    ],
+    "sha256": "5e61c83e6e31ef12aea36763311b08e98be7ba1074b89bdd0528a24d4935cad5",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "06/captura-08.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "765d9611e463e870887889f03cdda76238c4cc19a31e97184d7db3958cec79b7",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "07/captura-01.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "b3fef7835de48b5f10fe19ed7f527972ec146ca4525cafb5f131c6f2d2c4a69e",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "07/captura-02.png",
+    "size": [
+      1800,
+      749
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        717,
+        748
+      ]
+    ],
+    "sha256": "0af1c7a1d72b00090c1444290463ea945766e53b53a941332a1d3487363bfa4f",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "07/captura-03.png",
+    "size": [
+      1800,
+      750
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        718,
+        749
+      ]
+    ],
+    "sha256": "54a94019028434cd80ed92f3225966db5e194e490d7a345e5f85a0393f3327cb",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "07/captura-04.png",
+    "size": [
+      1800,
+      751
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        719,
+        750
+      ]
+    ],
+    "sha256": "f383112431a89464aa9020eb49dc255a0e5aa89b39640f77fdd2e073669a9fd3",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "07/captura-05.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "a751cdfbdafb14d38bb8ac0c795cc4f24f88248c8c4108ba676d1f5c0146ebc6",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "07/captura-06.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "ace5c30cca2cc906afe4d5380eed03ec72519306ed8fe96f394822a5b096eb9e",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "07/captura-07.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "49476971be6f3052b4285330d17942d0bf524d98e2d1cdf3eb15d146d3761e15",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "07/captura-08.png",
+    "size": [
+      1800,
+      752
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        720,
+        751
+      ]
+    ],
+    "sha256": "24647508db7634a3817a3e171d4dfa80b56a2b3dfaea2b12c3e5da612bcdbdb7",
+    "unmasked_pixels_unchanged": true
+  },
+  {
+    "path": "07/captura-09.png",
+    "size": [
+      1800,
+      753
+    ],
+    "masked_rows": [
+      [
+        0,
+        32
+      ],
+      [
+        721,
+        752
+      ]
+    ],
+    "sha256": "3ef2ce1be2c7bf6c1287e397f9d8d8e3885ec7ebda919a47135acfb5113043a0",
+    "unmasked_pixels_unchanged": true
+  }
+]
