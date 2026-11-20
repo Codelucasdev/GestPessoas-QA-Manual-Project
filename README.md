@@ -6,6 +6,8 @@ Portfólio de testes funcionais manuais de autenticação e gestão de funcioná
 
 [LinkedIn](https://www.linkedin.com/in/antonio-lucas-03441b311/) · [GitHub](https://github.com/LucasRibeiroTec)
 
+**Em destaque:** [Relatório funcional do checkout do SauceDemo](portfolio/saucedemo/relatorio-validacao-nome.md) — passos, esperado, observado e evidência de execução.
+
 ## O projeto
 
 GestPessoas é o nome utilizado no exercício de formação. A aplicação testada é a demonstração do **OrangeHRM**; este repositório reúne o trabalho de testes, não o desenvolvimento da aplicação.
