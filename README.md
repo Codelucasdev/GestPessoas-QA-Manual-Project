@@ -4,7 +4,7 @@
 
 Portfólio de testes funcionais manuais de autenticação e gestão de funcionários, desenvolvido em formação.
 
-[LinkedIn](https://www.linkedin.com/in/antonio-lucas-03441b311/) · [GitHub](https://github.com/Codelucasdev)
+[LinkedIn](https://www.linkedin.com/in/antonio-lucas-03441b311/) · [GitHub](https://github.com/LucasRibeiroTec)
 
 ## O projeto
 
@@ -59,3 +59,7 @@ As [notas de revisão](docs/revisao.md) identificam ambiguidades e pontos a conf
 Estou direcionando minha trajetória para **QA Manual Tester**, com formação prática em testes de software e base de estudos em HTML, CSS e JavaScript. Também desenvolvo conhecimentos básicos de SQL e prática orientada em testes de API com Swagger Petstore e ServeRest.
 
 Meu foco é documentar o raciocínio de teste com clareza, evidências e atenção ao comportamento da aplicação.
+
+## Outro projeto de formação
+
+[SauceDemo — testes funcionais do checkout](portfolio/saucedemo/README.md). Três casos documentados com pré-condições, ações e resultados observados.
